@@ -1,9 +1,8 @@
-# tech blog@sunsin.shop
+# tech blog@**jerry**
 - Our team's technology blog inherits the spirit of Admiral Yi Sun-sin of Joseon
 
-
 ### Connecting
-- PRD - https://team.sunsin.shop
+- PRD - https://
 - STG - https://
 
 ### Contribute guide
