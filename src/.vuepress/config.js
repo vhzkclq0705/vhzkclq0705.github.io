@@ -9,8 +9,8 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team TIGER',
-  description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+  title: 'jerry',
+  description: "SW camp dev team's technology blog about wanting to study open source and more.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
@@ -63,8 +63,8 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/tiger-stern.svg",
-    logoDark: "/images/tiger-cute.svg",
+    logo: "/images/chill.png",
+    logoDark: "/images/chill.png",
 
     repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
     repoLabel: "discussions",

@@ -1,20 +1,20 @@
 ---
 home: true
 
-heroImage: /images/hero.png
-heroImageDark: /images/hero.png
+heroImage: /images/chill.png
+heroImageDark: /images/evil.png
 
-heroText: 'tech blog@cashmallow'
+heroText: 'tech blog@jerry'
 title: tech blog
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: SW camp dev team's technology blog about wanting to study open source and more.
 
 actions:
   - text: tech SHARE
     link: /tech/share
     type: primary
   
-  - text: team TIGER
+  - text: team sunsin
     link: /team/tiger
     type: secondary
 
