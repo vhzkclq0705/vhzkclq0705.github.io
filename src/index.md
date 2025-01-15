@@ -2,7 +2,7 @@
 home: true
 
 heroImage: /images/chill.png
-heroImageDark: /images/chill.png
+heroImageDark: /images/evil.png
 
 heroText: 'tech blog@jerry'
 title: tech blog
