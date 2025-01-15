@@ -2,8 +2,10 @@
 - Our team's technology blog inherits the spirit of Admiral Yi Sun-sin of Joseon
 
 ### Connecting
-- PRD - https://
-- STG - https://
+- PRD - https://vhzkclq0705.github.io
+- STG - https://tech-blog-d4f1b.web.app
+- DEV - ?
+- LOCAL - http://localhost:8080
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -42,9 +44,10 @@ $ firebase deploy
 ```
 
 2. PRD
-- github pages -> docs
-- sh prd-build.sh -> push -> pr merge -> deploy - end
-- https://oss.cashmallow.com
+```bash
+$ github pages -> docs
+$ pnpm docs:build
+$ git add .; git commit -a; git push
+$ https://vhzkclq0705.github.io
+```
 
-<img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
-<img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
