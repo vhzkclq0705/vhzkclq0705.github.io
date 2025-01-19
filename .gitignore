@@ -9,5 +9,5 @@ node_modules
 /.idea/misc.xml
 /.idea/.gitignore
 
-/docs/*
+# /docs/*
 !/docs/CNAME
