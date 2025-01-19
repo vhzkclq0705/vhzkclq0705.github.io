@@ -12,7 +12,11 @@ tagline: SW camp dev team's technology blog about wanting to study open source a
 actions:
   - text: GITHUB
     link: https://github.com/vhzkclq0705
-    type: primary
+    type: danger
+
+  - text: VELOG
+    link: https://velog.io/@o_joon_
+    tpye: secondary
   
   - text: RESUME
     link: /resume
