@@ -16,7 +16,7 @@ export default defineUserConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'jerry blog' }],
     ['meta', { property: 'og:description', content: "It's Jerry's tech blog!" }],
-    ['meta', { property: 'og:image', content: "https://cho6019.github.io/images/repository-open-graph-template.png" }],
+    ['meta', { property: 'og:image', content: "https://vhzkclq0705.github.io/images/repository-open-graph-template.png" }],
     ['meta', { property: 'og:url', content: 'https://tech.ojooon.store/' }],
   ],
   
