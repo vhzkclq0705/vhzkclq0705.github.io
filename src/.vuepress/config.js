@@ -14,10 +14,10 @@ export default defineUserConfig({
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:cashmallow' }],
-    ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
+    ['meta', { property: 'og:title', content: 'jerry blog' }],
+    ['meta', { property: 'og:description', content: "It's Jerry's tech blog!" }],
     ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'https://oss.cashmallow.com' }],
+    ['meta', { property: 'og:url', content: 'http://tech.ojooon.store/' }],
   ],
   
   locales: {
@@ -66,8 +66,8 @@ export default defineUserConfig({
     logo: "/images/chill.png",
     logoDark: "/images/chill.png",
 
-    repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
-    repoLabel: "discussions",
+    // repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
+    // repoLabel: "discussions",
 
     contributors: false,
 
@@ -81,34 +81,17 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "Github", link: "https://github.com/vhzkclq0705" },
+      { text: "Resume", link: "/resume/" },
     ],
 
     sidebar: {
       "/": [
         {
-          text: "share",
+          text: "Resume",
           collapsible: true,
           children: [
-            "/tech/share/",
-          ],
-        },
-        {
-          text: "team",
-          collapsible: true,
-          children: [
-            "/team/tiger/",
-            "/team/recruit/",
-            "/team/how2pr/",
-            "/team/tiger2agile/",
-          ],
-        },
-        {
-          text: "opensource",
-          collapsible: true,
-          children: [
-            "/tech/share/opensource/",
+            "/resume/",
           ],
         },
       ],
