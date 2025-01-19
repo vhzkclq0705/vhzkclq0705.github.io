@@ -17,7 +17,7 @@ export default defineUserConfig({
     ['meta', { property: 'og:title', content: 'jerry blog' }],
     ['meta', { property: 'og:description', content: "It's Jerry's tech blog!" }],
     ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'http://tech.ojooon.store/' }],
+    ['meta', { property: 'og:url', content: 'https://tech.ojooon.store/' }],
   ],
   
   locales: {
