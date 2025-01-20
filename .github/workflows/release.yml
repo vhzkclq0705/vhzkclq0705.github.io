@@ -36,7 +36,7 @@ jobs:
       - name: Build Docs
         run: npm run docs:build
       - name: COPY Files
-        run: cp CNAME robots.txt naver10ed219ad8cc83978ef28cef5bbcaf2f.html docs/
+        run: sh cp-files.sh 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
