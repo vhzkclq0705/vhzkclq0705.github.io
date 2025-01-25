@@ -1,5 +1,5 @@
 # tech blog@**jerry**
-- Our team's technology blog inherits the spirit of Admiral Yi Sun-sin of Joseon
+- A repository for Jerry's tech blog
 
 ### Connecting
 - PRD - https://vhzkclq0705.github.io
@@ -48,6 +48,6 @@ $ firebase deploy
 $ github pages -> docs
 $ pnpm docs:build
 $ git add .; git commit -a; git push
-$ https://vhzkclq0705.github.io
+$ https://tech.ojooon.store
 ```
 
